@@ -1,2 +1,2 @@
 My first readme
-I'm surv_Quadri by name 
+I am surv_Quadri by name 
